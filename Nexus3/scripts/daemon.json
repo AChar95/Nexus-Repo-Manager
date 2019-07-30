@@ -1,0 +1,7 @@
+{
+	"insecure-registries": [
+		"localhost:8082",
+		"localhost:8083"
+	],
+	"disable-legacy-registry":true
+}
